@@ -6,12 +6,12 @@ body {
 #page {
   width: 1000px;
   margin: 65px auto 0;
-  border: 1px solid darkcyan;
 }
 
-header {
+nav {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 nav ul {
